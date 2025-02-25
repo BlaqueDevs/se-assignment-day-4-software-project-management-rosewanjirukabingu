@@ -102,6 +102,8 @@ How does defining the project scope contribute to successful project planning
 •	Prevent scope creep
 •	Establish a process for change requests (for complex projects)
 Work Breakdown Structure (WBS), and why is it useful
+
+
 A WBS in project management organizes and defines the project scope by breaking it down into manageable sections. It sets a clear framework for project planning, execution, and control.
 It clearly outlines each task to help assign responsibilities. Each work package has enough detail to accurately predict resource requirements and durations, aiding in estimating costs and timeframes.
 
